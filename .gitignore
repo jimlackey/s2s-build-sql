@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/JsonToSQL/v15
+/JsonToSQL/bin/Debug
+/JsonToSQL/obj/Debug
