@@ -70,6 +70,7 @@ namespace JsonToSQL
                 }
             }
 
+            //Add Comment
             BuildSQL.WriteSQL(result, directoryPath);
         }
 
